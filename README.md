@@ -14,7 +14,6 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 * Douglas Lee de Freitas - 897172
 * Gustavo Felipe Magalhães - 883903
 * Herrison Teles da Silva – 1578558
-* Iago Bornia Salgado - 849318
 * Judá Benhur de Goes Cabral - 882292
 * Marcos Silas Mamede Câmara - 1578219
 * Pedro Henrique de Oliveira Dornelas - 1593852
