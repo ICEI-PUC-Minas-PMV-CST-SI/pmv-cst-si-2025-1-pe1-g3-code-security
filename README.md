@@ -7,7 +7,11 @@
 
 `Eixo: 1`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+A Codesecurity é uma empresa especializada em promover o desenvolvimento rural sustentável, com foco em gestão de recursos hídricos, irrigação inteligente, saneamento básico e apoio técnico para comunidades agrícolas.
+
+Atuando em diversas regiões, a Codesecurity busca melhorar a qualidade de vida no campo por meio de soluções práticas, infraestrutura eficiente e iniciativas que incentivam a inclusão social e o crescimento econômico no meio rural.
+
+
 
 ## Integrantes
 
